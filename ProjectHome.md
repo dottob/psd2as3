@@ -1,0 +1,1 @@
+Parse PSD file and display image in AS3, masked with the path integrated in the PSD
